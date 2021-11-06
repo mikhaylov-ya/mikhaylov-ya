@@ -2,7 +2,7 @@
 
 ## Mikhaylov Yaroslav, Moscow, Russia, 26 y.o.
 
-Currently learning at [_Moscow Coding School_](https://moscoding.ru/):
+Currently learning at [_Moscow Coding School_](https://moscoding.ru/) :
 * HTML/CSS ✔️
 * JavaScript Basics ✔️
 * React **82 %**
