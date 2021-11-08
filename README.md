@@ -7,4 +7,6 @@ Currently learning at [_Moscow Coding School_](https://moscoding.ru/) :
 * JavaScript Basics ✔️
 * React **82 %**
 
-First of all — I am seeking a role as a front-end developer where I can utilize my talents and skills to fulfill the goals of the organization.
+Aside of that — Pug/SASS preprocessors, Styled Components and Git
+
+I am seeking a role as a front-end developer where I can utilize my talents and skills to fulfill the goals of the organization.
