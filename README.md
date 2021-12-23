@@ -2,11 +2,11 @@
 
 ## Mikhaylov Yaroslav, Moscow, Russia, 26 y.o.
 
-Currently learning at [_Moscow Coding School_](https://moscoding.ru/) :
+Ex-student of [_Moscow Coding School_](https://moscoding.ru/) :
 * HTML/CSS ✔️
 * JavaScript Basics ✔️
 * React **82 %**
 
-Aside of that — Pug/SASS preprocessors, Styled Components and Git
+Student of Hexlet.
 
 I am seeking a role as a front-end developer where I can utilize my talents and skills to fulfill the goals of the organization.
