@@ -5,7 +5,7 @@
 Ex-student of [_Moscow Coding School_](https://moscoding.ru/) :
 * HTML/CSS ✔️
 * JavaScript Basics ✔️
-* React **82 %**
+* React **88 %**
 
 Student of Hexlet.
 
