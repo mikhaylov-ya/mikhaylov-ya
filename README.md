@@ -5,8 +5,9 @@
 Ex-student of [_Moscow Coding School_](https://moscoding.ru/) :
 * HTML/CSS ✔️
 * JavaScript Basics ✔️
-* React **88 %**
+* React ✔️
 
-Student of Hexlet.
+Currently earning at Hexlet.
+* Frontend-developer (8-month program) 65%
 
 I am seeking a role as a front-end developer where I can utilize my talents and skills to fulfill the goals of the organization.
