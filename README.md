@@ -8,6 +8,6 @@ Ex-student of [_Moscow Coding School_](https://moscoding.ru/) :
 * React ✔️
 
 **Currently** working and learning at [Hexlet](https://hexlet.io).
-* Frontend-developer (8-month program) 65%
+* Frontend-developer (eight-month program) — **66%**
 
 I am seeking a role as a front-end developer where I can utilize my talents and skills to fulfill the goals of the organization.
