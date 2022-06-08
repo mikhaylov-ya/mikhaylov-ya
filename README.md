@@ -2,11 +2,6 @@
 
 ## Mikhaylov Yaroslav, Moscow, Russia, 26 y.o.
 
-Ex-student of [_Moscow Coding School_](https://moscoding.ru/) :
-* HTML/CSS ✔️
-* JavaScript Basics ✔️
-* React ✔️
-
 **Currently** working and learning at [Hexlet](https://hexlet.io).
 * Frontend-developer (eight-month program) — **70%**
 
