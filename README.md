@@ -3,6 +3,6 @@
 ## Mikhaylov Yaroslav, Moscow, Russia, 26 y.o.
 
 **Currently** working and learning at [Hexlet](https://hexlet.io).
-* Frontend-developer (eight-month program) — **70%**
+* Frontend-developer — **90%**
 
 I am seeking a role as a front-end developer where I can utilize my talents and skills to fulfill the goals of the organization.
