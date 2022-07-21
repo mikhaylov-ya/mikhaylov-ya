@@ -4,5 +4,3 @@
 
 **Currently** working and learning at [Hexlet](https://hexlet.io).
 * Frontend-developer — **90%**
-
-I am seeking a role as a front-end developer where I can utilize my talents and skills to fulfill the goals of the organization.
