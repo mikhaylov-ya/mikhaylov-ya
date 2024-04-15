@@ -1,12 +1,12 @@
 # Everything you need to know about me
 
-## Mikhaylov Yaroslav, 27 y.o.
+## Mikhaylov Yaroslav, 28 y.o.
 
 ![image](https://www.codewars.com/users/mikhaylov-ya/badges/small)
 
 * Ex-Frontend Mentor at [Hexlet](https://hexlet.io)
 * Working at Lumiprobe
-* Studying DevOps and Software Architecture
+* Studying Go and Software Architecture
 
 
 ### :hammer_and_wrench: Languages and Tools :
