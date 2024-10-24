@@ -1,6 +1,6 @@
 # Everything you need to know about me
 
-## Mikhaylov Yaroslav, 28 y.o.
+## Mikhaylov Yaroslav, 29 y.o.
 
 ![image](https://www.codewars.com/users/mikhaylov-ya/badges/small)
 
