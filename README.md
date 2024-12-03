@@ -6,7 +6,7 @@
 
 * Ex-Frontend Mentor at [Hexlet](https://hexlet.io)
 * Working at Lumiprobe
-* Studying Go and Software Architecture
+* Studying Algorithms and Software Architecture
 
 
 ### :hammer_and_wrench: Languages and Tools :
